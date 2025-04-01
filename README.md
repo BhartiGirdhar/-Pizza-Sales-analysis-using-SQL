@@ -1,4 +1,5 @@
- 🍕 Pizza Sales Analysis Project
+ 🍕** Pizza Sales Analysis Project**
+ 
 This project explores pizza sales data to uncover valuable insights regarding order patterns, customer preferences, and revenue trends. Through comprehensive data analysis, I identified best-selling pizzas, peak ordering times, performance by category, and overall revenue growth.
 
  📊 Project Overview
